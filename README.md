@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Finance software development<br>👯 I’m looking to collaborate on Human Behavior Engineering<br>🌱 I’m currently learning Data Science and AI<br>💬 Ask me about my favorite music<br>⚡ Fun fact I love to connect with people with commo interests
+🔭 I’m currently working on Finance software development<br>👯 I’m looking to collaborate on Human Behavior Engineering<br>🌱 I’m currently learning Data Science and AI<br>💬 Ask me about my favorite music<br>⚡ Fun fact I love to connect with people with common interests
 
 
 ## 🌐 Socials:
